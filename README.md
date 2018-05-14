@@ -1,5 +1,5 @@
-# Salesforce Marketing Cloud Consultant Exam Notes
-Helpful notes for working through preparation for Salesforce Marketing Cloud Consultant exam questions
+# Salesforce Marketing Cloud Consultant Notes
+> Helpful notes for working through preparation for Salesforce Marketing Cloud consultant exam questions.
 
 * [How to do discovery with Salesforce Marketing Cloud](#how-to-do-discovery-with-salesforce-marketing-cloud)
 * [How conceptual design is implemented in Salesforce Marketing Cloud](#how-conceptual-design-is-implemented-in-salesforce-marketing-cloud)
