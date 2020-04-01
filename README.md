@@ -169,6 +169,8 @@ Data objects in Marketing Cloud consist of:
 3. **[Publication lists](https://help.marketingcloud.com/en/documentation/exacttarget/subscribers/publication_lists/)** - are lists used with data extensions and the preference centre to manage if a subscriber is subscribed or unsubscribed. On an email send the publication list is used with the send. If the subscriber is not on the publication list then they are added. If the subscriber is already on the publication list and their status is subscribed then they are sent the email. If the subscriber's status is unsubscribed then they are not sent the email.
 4. **[Suppressions lists](https://help.marketingcloud.com/en/documentation/exacttarget/subscribers/suppression_lists/)** - are lists used with data extensions to control if the subscriber will get sent an email. Suppression lists contain a list of email addresses that will not be sent an email. Think of a suppression list as a do not contact list. 
 
+*Note*. Honor **Opt-out** requests promptly. You must process an unsubscribe request within 10 days, and your unsubscribe mechanism must be operational for at least 30 days after the mailing.
+
 ### Data extension data retention
 
 Data extensions can use [data retention](https://help.marketingcloud.com/en/documentation/exacttarget/subscribers/data_extensions_for_exacttarget_marketing_cloud/managing_policies_for_a_data_extension/) to manage how data is retained or persisted within the Marketing Cloud account. Data retention options manage the period and what should occur when data is deleted. On delete either: individual records; all records; or all records and data extension are deleted.
